@@ -132,7 +132,7 @@ function App() {
             </p>
 
             <a
-              href="https://rnt-cart-style.lovable.app/"
+              href="https://rnt-cart-styledisplay-name-rnt-mart-shopping.lovable.app/"
               target="_blank"
               rel="noreferrer"
               className="mt-6 inline-block font-semibold text-white hover:text-cyan-400"
@@ -211,3 +211,4 @@ function App() {
 }
 
 export default App;
+
