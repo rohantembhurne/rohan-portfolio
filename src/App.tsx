@@ -94,7 +94,17 @@ function App() {
           Featured Projects
         </h2>
 
-        <div className="mt-10 grid gap-6 md:grid-cols-3">
+        <div className="mt-10 rounded-2xl border border-slate-800 bg-slate-900 p-8">
+  <h3 className="text-xl font-bold">
+    Business-Focused Projects
+  </h3>
+
+  <p className="mt-3 leading-7 text-slate-400">
+    New projects focused on Operations & Strategy,
+    Supply Chain & Logistics, Go-To-Market Strategy,
+    and Digital Transformation are in development.
+  </p>
+</div>
           {/* JobTrackr */}
           <div className="rounded-2xl border border-slate-800 bg-slate-900 p-6">
             <h3 className="text-xl font-bold">JobTrackr</h3>
